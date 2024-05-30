@@ -6,6 +6,13 @@
       "email": "ramonjorge@gmail.com",
       "business_name": "Planifi",
       "password": "12345"
+    },
+    {
+      "id": "2",
+      "name": "Juan",
+      "email": "juan@gmail.com",
+      "business_name": "bus123",
+      "password": "1234"
     }
   ]
 }
